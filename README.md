@@ -1,8 +1,18 @@
-# 👋 Ciao! Sono DomeniGeco
+<h1 align="center">👋 Ciao! Sono DomeniGeco</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DeMENIGECO&color=green)
-![GitHub followers](https://img.shields.io/github/followers/DeMENIGECO?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/DeMENIGECO?affiliations=OWNER&style=social)
+<p align="center">
+  Giovane Programmatore • Python • HTML/CSS/JS 🇮🇹
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeMENIGECO&color=green" />
+  <img src="https://img.shields.io/github/followers/DeMENIGECO?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/DeMENIGECO?affiliations=OWNER&style=social" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Giovane+Programmatore;Progetti+in+Python,+HTML/CSS/JS;Sono+Italiano;Faccio+programmi+sempre+migliori" />
+</p>
 
 💻 Sono un giovane web developer appassionato di tecnologia e creazione di siti web!
 
