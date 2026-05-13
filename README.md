@@ -47,8 +47,6 @@
 
 Ecco alcuni dei miei progetti su GitHub 👇
 
-- [Sito DomenicoOS](https://github.com/DeMENIGECO/dsys)
-- [DomenicoOS](https://github.com/DeMENIGECO/domenicoos)
 - [Sito web personale](https://github.com/DeMENIGECO/demenigeco.github.io)
 - [Sito Faculty Editor](https://github.com/DeMENIGECO/faculty-site)
 - [Dromi](https://github.com/DeMENIGECO/Dromi)
