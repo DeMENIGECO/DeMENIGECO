@@ -154,6 +154,46 @@ select{
     .desktop-menu{display:none;}
     .hamburger{display:block;}
 }
+
+/* FOOTER */
+    footer.footer{
+    margin-top:40px;
+    background:var(--main);
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    gap:20px;
+    padding:25px;
+    flex-wrap:wrap;
+}
+
+.footer-left,
+.footer-right{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.footer-right div{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+/* BOTTONI FOOTER (nuovi, NON copy-btn) */
+.footer button{
+    padding:6px 12px;
+    border:none;
+    border-radius:8px;
+    background:white;
+    color:var(--dark);
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.footer button:hover{
+    opacity:0.8;
+}
 </style>
 </head>
 
@@ -183,16 +223,26 @@ select{
     <div id="markdown-content">Caricamento...</div>
 </main>
 
-<footer>
-<h3>DSite</h3>
-<p>Il progetto Python per costriure app con Python e XML.</p>
-<b>Lingua: </b> <button class="copy-btn" onclick="window.location.href = '/dsite-project/it/1.0.0'">Italiano</button>
-<br/>
-<b>Versione: </b> <button class="copy-btn" onclick="window.location.href = '/dsite-project/it/1.0.0'">1.0.0</button>
-<br/>
-<em>(Lingua attuale: Italiano, versione attuale: 1.0.0)</em>
-</footer>
+<footer class="footer">
+    <div class="footer-left">
+        <h3>DSite</h3>
+        <p>Il progetto Python per costruire app con Python e XML.</p>
+    </div>
 
+    <div class="footer-right">
+        <div>
+            <b>Lingua:</b>
+            <button onclick="window.location.href='/dsite-project/it/1.0.0'">Italiano</button>
+        </div>
+
+        <div>
+            <b>Versione:</b>
+            <button onclick="window.location.href='/dsite-project/it/1.0.0'">1.0.0</button>
+        </div>
+
+        <em>(Italiano - v1.0.0)</em>
+    </div>
+</footer>
 <script>
 
 /* MENU MOBILE */
